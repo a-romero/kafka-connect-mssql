@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="copy_docs"  >
+<target name="copy_docs">
+  <copy todir="/opt/kafka-connect-cdc-mssql/target/docs" failonerror="false">
+    <fileset dir="docs">
+      <include name="**/*"/>
+    </fileset>
+  </copy>
+</target>
+</project>

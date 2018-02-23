@@ -1,0 +1,8 @@
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlQueryBuilder.java
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlChange.java
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/QueryService.java
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlTableMetadataProvider.java
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlConnectionPoolDataSourceFactory.java
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlSourceConnectorConfig.java
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlSourceTask.java
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlSourceConnector.java

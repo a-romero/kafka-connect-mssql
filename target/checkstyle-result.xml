@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlTableMetadataProvider.java">
+</file>
+<file name="/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlSourceConnectorConfig.java">
+</file>
+<file name="/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlQueryBuilder.java">
+</file>
+<file name="/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlSourceTask.java">
+</file>
+<file name="/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlChange.java">
+</file>
+<file name="/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/QueryService.java">
+</file>
+<file name="/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlSourceConnector.java">
+</file>
+<file name="/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlConnectionPoolDataSourceFactory.java">
+</file>
+</checkstyle>

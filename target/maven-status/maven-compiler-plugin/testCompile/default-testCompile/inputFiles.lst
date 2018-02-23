@@ -1,0 +1,11 @@
+/opt/kafka-connect-cdc-mssql/src/test/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlTestConstants.java
+/opt/kafka-connect-cdc-mssql/src/test/java/com/github/jcustenborder/kafka/connect/cdc/mssql/docker/MsSqlSettingsExtension.java
+/opt/kafka-connect-cdc-mssql/src/test/java/com/github/jcustenborder/kafka/connect/cdc/mssql/QueryServiceTest.java
+/opt/kafka-connect-cdc-mssql/src/test/java/com/github/jcustenborder/kafka/connect/cdc/mssql/docker/MsSqlClusterHealthCheck.java
+/opt/kafka-connect-cdc-mssql/src/test/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlQueryBuilderTest.java
+/opt/kafka-connect-cdc-mssql/src/test/java/com/github/jcustenborder/kafka/connect/cdc/mssql/model/MsSqlQueryBuilderTestData.java
+/opt/kafka-connect-cdc-mssql/src/test/java/com/github/jcustenborder/kafka/connect/cdc/mssql/model/MsSqlTableMetadataProviderTestData.java
+/opt/kafka-connect-cdc-mssql/src/test/java/com/github/jcustenborder/kafka/connect/cdc/mssql/docker/MsSqlSettings.java
+/opt/kafka-connect-cdc-mssql/src/test/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlTableMetadataProviderTest.java
+/opt/kafka-connect-cdc-mssql/src/test/java/com/github/jcustenborder/kafka/connect/cdc/mssql/DocumentationTest.java
+/opt/kafka-connect-cdc-mssql/src/test/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlTest.java

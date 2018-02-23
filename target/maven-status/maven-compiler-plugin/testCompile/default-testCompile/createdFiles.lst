@@ -1,0 +1,11 @@
+com/github/jcustenborder/kafka/connect/cdc/mssql/docker/MsSqlClusterHealthCheck.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlTest.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/docker/MsSqlSettings.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/model/MsSqlQueryBuilderTestData.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/model/MsSqlTableMetadataProviderTestData.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/docker/MsSqlSettingsExtension.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlQueryBuilderTest.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlTestConstants.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/QueryServiceTest.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/DocumentationTest.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlTableMetadataProviderTest.class

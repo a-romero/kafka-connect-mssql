@@ -1,0 +1,11 @@
+com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlChange$MsSqlColumnValue.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlQueryBuilder.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlSourceTask.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/QueryService.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlTableMetadataProvider.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlSourceConnector.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlConnectionPoolDataSourceFactory.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlChange.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlTableMetadataProvider$MsSqlTableMetadata.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlChange$Builder.class
+com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlSourceConnectorConfig.class

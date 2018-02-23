@@ -1,0 +1,10 @@
+#Thu Feb 22 23:53:34 GMT 2018
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlSourceTask.java=1519341447000
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlTableMetadataProvider.java=1519341447000
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlSourceConnectorConfig.java=1519341447000
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlConnectionPoolDataSourceFactory.java=1519341447000
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/QueryService.java=1519341447000
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlChange.java=1519341447000
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlSourceConnector.java=1519341447000
+/opt/kafka-connect-cdc-mssql/src/main/java/com/github/jcustenborder/kafka/connect/cdc/mssql/MsSqlQueryBuilder.java=1519341447000
+configuration*?=F4FF76B232E9ACF03927B4DD84D638009FC67FA6
